@@ -10,7 +10,7 @@
 # For English conversion
 #ng serve
 
-![image](https://github.com/user-attachments/assets/9db4e53a-3508-49c5-8855-7bb74c4d1962)
+![image](https://github.com/user-attachments/assets/b5482e52-fd94-4c6d-a133-520585f56a4a)
 
 ![image](https://github.com/user-attachments/assets/b0c581aa-aa74-47ef-8a33-fbd2e12b96d7)
 
